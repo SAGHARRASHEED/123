@@ -1,0 +1,6 @@
+{
+  "name": "Facebook Messenger Automation Dashboard",
+  "description": "An application to manage and automate sending messages to clients via Facebook Messenger from multiple accounts. It includes features for importing client lists, managing accounts, and tracking sent messages with an AI-powered message variation generator.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
